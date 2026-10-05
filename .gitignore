@@ -1,0 +1,12 @@
+# Binaries and compiled objects
+src/rayn
+rayn
+*.o
+*.obj
+nimcache/
+.ninja_deps
+.ninja_log
+
+# Local temporary logs
+*.log
+*.tmp
